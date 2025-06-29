@@ -1,0 +1,1 @@
+# 2025-amerika-index.js
